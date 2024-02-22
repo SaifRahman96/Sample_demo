@@ -1,3 +1,3 @@
 # Sample_demo
-First Respository
-Author-Saif Rahman
+First Respository.
+Author-Saif Rahman.
